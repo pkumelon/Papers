@@ -38,4 +38,5 @@ Amazing links to try DiffusionLLM:
 |Date|Title|Paper|Code|
 |:---:|:---:|:---:|:---:|
 |2025.03|Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models (@Cornell,Stanford & Cohere), ICLR 2025 oral| [pdf](https://arxiv.org/pdf/2503.09573)|[bd3lms](https://github.com/kuleshov-group/bd3lms)|
+|2025.05|Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion (@Cornell)|[pdf](https://arxiv.org/pdf/2505.21467) | / |
 |2025.05|Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding (@NVIDIA) |[pdf](https://arxiv.org/pdf/2505.22618)|[Fast-dLLM](https://github.com/NVlabs/Fast-dLLM)
