@@ -5,6 +5,9 @@ Amazing links to try DiffusionLLM:
 - [Mercury](https://www.inceptionlabs.ai/introducing-mercury)
 - [Gemini-diffusion](https://deepmind.google/models/gemini-diffusion/)
 
+Some related repo:
+- [discrete-diffusion-papers](https://github.com/hanyang1999/discrete-diffusion-papers)
+- [Diffusion-LLM-Papers](https://github.com/ML-GSAI/Diffusion-LLM-Papers)
 
 ## Contents
 * [Preliminary](#preliminary)
@@ -20,7 +23,7 @@ Amazing links to try DiffusionLLM:
 |2021.07|Structured Denoising Diffusion Models in Discrete State-Spaces (@Google), NeurIPS 2021| [pdf](https://arxiv.org/pdf/2107.03006) | / |
 |2024.06|Simplified and Generalized Masked Diffusion for Discrete Data (@Google), NeurIPS 2024|[pdf](https://arxiv.org/pdf/2406.04329)|[MD4](https://github.com/google-deepmind/md4)|
 |2024.06|Simple and Effective Masked Diffusion Language Models (@Cornell Tech), NeurIPS 2024|[pdf](https://arxiv.org/pdf/2406.07524)|[mdlm](https://github.com/kuleshov-group/mdlm)|
-|2024.06|Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data (@RMU), ICLR 2025|[pdf](https://arxiv.org/pdf/2406.03736)|[RADD](https://github.com/ML-GSAI/RADD)|
+|2024.06|Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data (@RUC), ICLR 2025|[pdf](https://arxiv.org/pdf/2406.03736)|[RADD](https://github.com/ML-GSAI/RADD)|
 |2024.09|Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling (@THU & NVIDIA), ICLR 2025|[pdf](https://arxiv.org/pdf/2409.02908)|/|
 
 ### Models
@@ -28,7 +31,7 @@ Amazing links to try DiffusionLLM:
 
 |Date|Title|Paper|Code|
 |:---:|:---:|:---:|:---:|
-|2025.02|Large Language Diffusion Models (@RMU)|[pdf](https://arxiv.org/pdf/2502.09992)|[LLaDA](https://github.com/ML-GSAI/LLaDA)|
+|2025.02|Large Language Diffusion Models (@RUC)|[pdf](https://arxiv.org/pdf/2502.09992)|[LLaDA](https://github.com/ML-GSAI/LLaDA)|
 |2025.03|Dream 7B (@HKU)|[blog](https://hkunlp.github.io/blog/2025/dream/)|[Dream](https://github.com/HKUNLP/Dream)|
 |2025.05|MMaDA: Multimodal Large Diffusion Language Models (@Princeton,PKU,THU & ByteDance)|[pdf](https://arxiv.org/pdf/2505.15809)|[MMaDA](https://github.com/Gen-Verse/MMaDA)|
 
