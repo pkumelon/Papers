@@ -32,11 +32,20 @@ Some related repo:
 
 |Date|Title|Paper|Code|
 |:---:|:---:|:---:|:---:|
-|2025.02|Large Language Diffusion Models (@RUC)|[pdf](https://arxiv.org/pdf/2502.09992)|[LLaDA](https://github.com/ML-GSAI/LLaDA)|
-|2025.03|Dream 7B (@HKU)|[blog](https://hkunlp.github.io/blog/2025/dream/)|[Dream](https://github.com/HKUNLP/Dream)|
-|2025.05|MMaDA: Multimodal Large Diffusion Language Models (@Princeton,PKU,THU & ByteDance)|[pdf](https://arxiv.org/pdf/2505.15809)|[MMaDA](https://github.com/Gen-Verse/MMaDA)|
-|2025.05|LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning|[pdf](https://arxiv.org/pdf/2505.16933)|[LLaDA-V](https://github.com/ML-GSAI/LLaDA-V)|
-|2025.05| LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models |      [pdf](http://arxiv.org/pdf/2505.19223)       | [LLaDA-1.5](https://github.com/ML-GSAI/LLaDA-1.5) |
+|2025.02| Large Language Diffusion Models (@RUC) | [pdf](https://arxiv.org/pdf/2502.09992) | [LLaDA](https://github.com/ML-GSAI/LLaDA)|
+|2025.03| Dream 7B (@HKU) | [blog](https://hkunlp.github.io/blog/2025/dream/) | [Dream](https://github.com/HKUNLP/Dream) |
+|2025.05| MMaDA: Multimodal Large Diffusion Language Models (@Princeton,PKU,THU & ByteDance) | [pdf](https://arxiv.org/pdf/2505.15809) | [MMaDA](https://github.com/Gen-Verse/MMaDA)|
+|2025.05| LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning|[pdf](https://arxiv.org/pdf/2505.16933)|[LLaDA-V](https://github.com/ML-GSAI/LLaDA-V)|
+| 2025.05 | LaViDa: A Large Diffusion Language Model for Multimodal Understanding (@UCLA,Panasonic,Adobe,Salesforce) |  [pdf](http://arxiv.org/pdf/2505.19223) | [LaViDa](https://github.com/jacklishufan/LaViDa) |
+| 2025.05 | Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding(@NUS)|   [pdf](https://arxiv.org/pdf/2505.16990) | [Dimple](https://github.com/yu-rp/Dimple) |
+
+* RL + DLLM
+
+|Date|Title|Paper|Code|
+|:---:|:---:|:---:|:---:|
+| 2025.4 | d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning (@UCLA,Meta) | [pdf](https://arxiv.org/pdf/2504.12216) | [d1](https://github.com/dllm-reasoning/d1) |
+| 2025.05 | LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models (@RUC,Beijing-AISI) | [pdf](http://arxiv.org/pdf/2505.19223) | [LLaDA-1.5](https://github.com/ML-GSAI/LLaDA-1.5) |
+| 2025.05 | Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models (@UCLA,Meta) | [pdf](https://arxiv.org/pdf/2505.10446) | / |
 
 ### Efficiency
 <div id="efficiency"></div>
