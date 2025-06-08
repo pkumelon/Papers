@@ -43,7 +43,7 @@ Some related repo:
 
 |Date|Title|Paper|Code|
 |:---:|:---:|:---:|:---:|
-| 2025.4 | d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning (@UCLA,Meta) | [pdf](https://arxiv.org/pdf/2504.12216) | [d1](https://github.com/dllm-reasoning/d1) |
+| 2025.04 | d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning (@UCLA,Meta) | [pdf](https://arxiv.org/pdf/2504.12216) | [d1](https://github.com/dllm-reasoning/d1) |
 | 2025.05 | LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models (@RUC,Beijing-AISI) | [pdf](http://arxiv.org/pdf/2505.19223) | [LLaDA-1.5](https://github.com/ML-GSAI/LLaDA-1.5) |
 | 2025.05 | Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models (@UCLA,Meta) | [pdf](https://arxiv.org/pdf/2505.10446) | / |
 
