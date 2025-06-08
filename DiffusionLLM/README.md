@@ -21,8 +21,10 @@ Some related repo:
 
 |Date|Title|Paper|Code|
 |:---:|:---:|:---:|:---:|
+|2020.06|Denoising Diffusion Probabilistic Models (DDPM) (@UC Berkeley), NeurIPS 2020|[pdf](https://arxiv.org/pdf/2006.11239)|[diffusion](https://github.com/hojonathanho/diffusion) |
 |2021.07|Structured Denoising Diffusion Models in Discrete State-Spaces (@Google), NeurIPS 2021| [pdf](https://arxiv.org/pdf/2107.03006) | / |
 |2021.11|Improved Denoising Diffusion Probabilistic Models (@OpenAI), NeurIPS 2021| [pdf](https://arxiv.org/pdf/2102.09672)| [improved-diffusion](https://github.com/openai/improved-diffusion) |
+|2021.12|High-Resolution Image Synthesis with Latent Diffusion Models (LDM) (@Stability AI), CVPR 2022| [pdf](https://arxiv.org/pdf/2112.10752) | [latent-diffusion](https://github.com/CompVis/latent-diffusion) |
 |2024.06|Simplified and Generalized Masked Diffusion for Discrete Data (@Google), NeurIPS 2024|[pdf](https://arxiv.org/pdf/2406.04329)|[MD4](https://github.com/google-deepmind/md4)|
 |2024.06|Simple and Effective Masked Diffusion Language Models (@Cornell Tech), NeurIPS 2024|[pdf](https://arxiv.org/pdf/2406.07524)|[mdlm](https://github.com/kuleshov-group/mdlm)|
 |2024.06|Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data (@RUC), ICLR 2025|[pdf](https://arxiv.org/pdf/2406.03736)|[RADD](https://github.com/ML-GSAI/RADD)|
