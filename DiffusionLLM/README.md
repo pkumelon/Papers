@@ -46,3 +46,8 @@ Some related repo:
 |2025.03|Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models (@Cornell,Stanford & Cohere), ICLR 2025 oral| [pdf](https://arxiv.org/pdf/2503.09573)|[bd3lms](https://github.com/kuleshov-group/bd3lms)|
 |2025.05|Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion (@Cornell)|[pdf](https://arxiv.org/pdf/2505.21467) | / |
 |2025.05|Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding (@NVIDIA) |[pdf](https://arxiv.org/pdf/2505.22618)|[Fast-dLLM](https://github.com/NVlabs/Fast-dLLM)
+|2025.05|dKV-Cache: The Cache for Diffusion Language Models(@NUS)|[pdf](https://arxiv.org/pdf/2505.15781) | [dKV-Cache](https://github.com/horseee/dKV-Cache) |
+|2025.05|Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking(@Meta)|[pdf](https://arxiv.org/pdf/2505.24857) | / |
+|2025.05|Accelerating Diffusion LLMs via Adaptive Parallel Decoding (@UCLA)|[pdf](https://www.arxiv.org/pdf/2506.00413)| / |
+|2025.05|Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding(@NUS) |[pdf](https://arxiv.org/pdf/2505.16990)| [Dimple](https://github.com/yu-rp/Dimple)|
+|2025.06|Esoteric Language Models(@Cornell) |[pdf](https://arxiv.org/pdf/2506.01928)|[Eso-LMs](https://s-sahoo.com/Eso-LMs/)|
