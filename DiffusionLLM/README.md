@@ -12,6 +12,7 @@ Some related repo:
 ## Contents
 * [Preliminary](#preliminary)
 * [Models](#models)
+* [RL + DLLM](#rl--dllm)
 * [Efficiency](#efficiency)
 
 
@@ -39,7 +40,8 @@ Some related repo:
 | 2025.05 | LaViDa: A Large Diffusion Language Model for Multimodal Understanding (@UCLA,Panasonic,Adobe,Salesforce) |  [pdf](http://arxiv.org/pdf/2505.19223) | [LaViDa](https://github.com/jacklishufan/LaViDa) |
 | 2025.05 | Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding(@NUS)|   [pdf](https://arxiv.org/pdf/2505.16990) | [Dimple](https://github.com/yu-rp/Dimple) |
 
-* RL + DLLM
+### RL + DLLM
+<div id="rl--dllm"></div>
 
 |Date|Title|Paper|Code|
 |:---:|:---:|:---:|:---:|
