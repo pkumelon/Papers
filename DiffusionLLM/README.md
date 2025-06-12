@@ -8,6 +8,7 @@ Amazing links to try DiffusionLLM:
 Some related repo:
 - [discrete-diffusion-papers](https://github.com/hanyang1999/discrete-diffusion-papers)
 - [Diffusion-LLM-Papers](https://github.com/ML-GSAI/Diffusion-LLM-Papers)
+- [diffusion-nlp-paper-arxiv](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv)
 
 ## Contents
 * [Preliminary](#preliminary)
